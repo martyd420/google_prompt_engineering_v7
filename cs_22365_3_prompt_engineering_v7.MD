@@ -1,3 +1,6 @@
+Toto je překlad (1 prompt) pomocí Gemini 2.5 pro experimental.
+Původní pdf zde: https://www.kaggle.com/whitepaper-prompt-engineering
+
 # Prompt Engineering
 
 **Autor: Lee Boonstra**

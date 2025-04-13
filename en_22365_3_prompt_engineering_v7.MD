@@ -2,6 +2,8 @@
 
 **Author: Lee Boonstra**
 
+Link: https://www.kaggle.com/whitepaper-prompt-engineering
+
 
 #### Acknowledgements
 
